@@ -5,6 +5,8 @@
 
 Le Machine Learning est une branche de l'intelligence artificielle qui permet à des ordinateurs d'apprendre à partir de données. Il existe plusieurs types de Machine Learning, dont le Machine Learning supervisé, le Machine Learning non supervisé et le Machine Learning par renforcement. Le Machine Learning est utilisé dans de nombreux domaines, tels que la finance, la santé, la sécurité, le marketing, etc.
 
+![Data Science](<images/Data Science.png>)
+
 ## 1.La science des données
 
 La science des données est l'étude de l'extraction automatisée de connaissance à partir de grands ensembles de données.
