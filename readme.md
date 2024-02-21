@@ -3,7 +3,7 @@
 
 ## Introduction
 
-Le Machine Learning est une branche de l'intelligence artificielle qui permet à des ordinateurs d'apprendre à partir de données. Il existe plusieurs types de Machine Learning, dont le Machine Learning supervisé, le Machine Learning non supervisé et le Machine Learning par renforcement. Le Machine Learning est utilisé dans de nombreux domaines, tels que la finance, la santé, la sécurité, le marketing, etc.
+Le Machine Learning est une branche de l'intelligence artificielle qui est elle même un domaine de la science des données; Elle permet à des ordinateurs d'apprendre à partir de données. Il existe plusieurs types de Machine Learning, dont le Machine Learning supervisé, le Machine Learning non supervisé et le Machine Learning par renforcement.
 
 ![Data Science](<images/Data Science.png>)
 
@@ -13,10 +13,44 @@ La science des données est l'étude de l'extraction automatisée de connaissanc
 
 Il s'agit d'une approche pluridisciplinaire qui combine des compétences en mathématiques, en statistiques, en informatique et en domaines d'application en vue d'analyser de grands volumes de données brutes structurées ou non.
 
+Elle permet aussi de produire des algorithmes et méthodes d'analyse de grandes masses de données afin d'en extraire des informations  et de réaliser des modèles et prédiction utiles.
+
+Pour cela, elle se met en œuvre selon les étapes suivantes :
+- Comprendre et définir les objectifs et problèmes à résoudres,
+- Elaborer une stratégie d'analyse de données,
+- Collecter, explorer et analyser les données par la [fouille de données](#11la-fouille-de-données) et l'[analyse exploratoire](#12lanalyse-exploratoire),
+- Préparer les données: par le nettoyage et le formatage,
+- Créer des modèles avec les données à l'aide de différentes méthodes et algorithmes tels que:
+    - [l'apprentissage automatique](#2lapprentissage-automatique),
+    - [l'apprentissage profond](#3lapprentissage-profond),
+- Aider au déploiement et à l'exploitation des modèles et de leurs résultats: 
+    - sous forme brute,
+    - de visuels tels que des tableaux de bord,
+    - ou de rapports, sous forme d'applications ou d'outils d'[aide à la décision](#13laide-à-la-décision).
+
 Sources : [Wikipedia](https://fr.wikipedia.org/wiki/Science_des_donn%C3%A9es) /
 [AWS](https://aws.amazon.com/fr/what-is/data-science/#:~:text=La%20science%20des%20donn%C3%A9es%20est%20un%20terme%20g%C3%A9n%C3%A9rique%20qui%20recouvre,math%C3%A9matiques%20et%20l'analyse%20statistique.)
 
 ![Data Science center of everythings.](<images/DataScienceDisciplines.png>)
+
+### 1.1.La fouille de données
+
+La fouille de données (ou data mining) est un processus d'exploration et d'analyse de grandes quantités de données par des méthodes automatiques ou semi-automatiques.
+
+Sources : [Wikipedia](https://fr.wikipedia.org/wiki/Exploration_de_donn%C3%A9es)
+
+### 1.2.L'analyse exploratoire
+
+L'analyse exploratoire des données (AED) est une famille de méthodes statistiques dont les principaux objectifs sont de résumer les caractéristiques principales des données, de mettre en évidence les relations entre les variables et de détecter les valeurs aberrantes et les erreurs de mesure.
+
+Sources : [Wikipedia](https://fr.wikipedia.org/wiki/Analyse_des_donn%C3%A9es)
+
+### 1.3.L'aide à la décision
+
+L'aide à la décision est l'ensemble des techniques permettant d'effectuer individuellement la meilleure prise de décision possible. Il est utile de bénéficier d'outils "simples" permettant de vérifier et d'analyser rapidement les informations afin de pouvoir prendre la décision à priori la plus adaptée à un moment donné et ce, sans nécessairement avoir à faire appel à des connaissances poussées en mathématique ou informatique.
+
+Sources : [Wikipedia](https://fr.wikipedia.org/wiki/Aide_%C3%A0_la_d%C3%A9cision)
+
 ## 2.L'apprentissage automatique
 
 L'apprentissage automatique (machine learning) est un champ d'étude de l'intelligence artificielle qui vise à donner aux ordinateurs la capacité d' "apprendre" à partir de données, via des modèles mathématiques. Plus précisément, il s'agit du procédé par lequel les informations pertinentes sont tirées d'un ensemble de données d'entrainement.
@@ -135,7 +169,7 @@ Par la suite, le modèle ajusté est utilisé pour prédire les valeurs de la va
 
 ## 12.Les données de test
 
-Enfin, Le jeu de données de test est un jeu de données utilisé pour fournir une évaluation impartiale d'un ajustement final du modèle sur le jeu de données d'apprentissage.Par ailleurs, si les données de test ne sont pas utilisées dans l'apprentissage, le jeu de données de test est également appelé jeu de données d'exclusion.
+Enfin, Le jeu de données de test est un jeu de données utilisé pour fournir une évaluation impartiale d'un ajustement final du modèle sur le jeu de données d'apprentissage. Par ailleurs, si les données de test ne sont pas utilisées dans l'apprentissage, le jeu de données de test est également appelé jeu de données d'exclusion.
 
 Sources : [Wikipedia](https://fr.wikipedia.org/wiki/Jeux_d%27entrainement,_de_validation_et_de_test)
 
