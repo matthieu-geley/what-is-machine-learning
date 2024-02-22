@@ -13,7 +13,7 @@ La science des données est l'étude de l'extraction automatisée de connaissanc
 
 Il s'agit d'une approche pluridisciplinaire qui combine des compétences en mathématiques, en statistiques, en informatique et en domaines d'application en vue d'analyser de grands volumes de données brutes structurées ou non.
 
-Elle permet aussi de produire des algorithmes et méthodes d'analyse de grandes masses de données afin d'en extraire des informations  et de réaliser des modèles et prédiction utiles.
+Elle permet aussi de produire des algorithmes et méthodes d'analyse de grandes masses de données afin d'en extraire des informations  et de réaliser des modèles et prédictions utiles.
 
 Pour cela, elle se met en œuvre selon les étapes suivantes :
 - Comprendre et définir les objectifs et problèmes à résoudres,
