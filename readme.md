@@ -20,13 +20,13 @@ Pour cela, elle se met en œuvre selon les étapes suivantes :
 - Elaborer une stratégie d'analyse de données,
 - Collecter, explorer et analyser les données par la [fouille de données](#11la-fouille-de-données) et l'[analyse exploratoire](#12lanalyse-exploratoire),
 - Préparer les données: par le nettoyage et le formatage,
-- Créer des modèles avec les données à l'aide de différentes méthodes et algorithmes tels que:
-    - [l'apprentissage automatique](#2lapprentissage-automatique),
-    - [l'apprentissage profond](#3lapprentissage-profond),
 - Aider au déploiement et à l'exploitation des modèles et de leurs résultats: 
     - sous forme brute,
     - de visuels tels que des tableaux de bord,
     - ou de rapports, sous forme d'applications ou d'outils d'[aide à la décision](#13laide-à-la-décision).
+- Créer des modèles avec les données à l'aide de différentes méthodes et algorithmes tels que:
+    - [l'apprentissage automatique](#2lapprentissage-automatique),
+    - [l'apprentissage profond](#3lapprentissage-profond),
 
 Sources : [Wikipedia](https://fr.wikipedia.org/wiki/Science_des_donn%C3%A9es) /
 [AWS](https://aws.amazon.com/fr/what-is/data-science/#:~:text=La%20science%20des%20donn%C3%A9es%20est%20un%20terme%20g%C3%A9n%C3%A9rique%20qui%20recouvre,math%C3%A9matiques%20et%20l'analyse%20statistique.)
